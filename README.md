@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sadeepa_dexter" target="blank"><img src="https://img.shields.io/twitter/follow/sadeepa_dexter?logo=twitter&style=for-the-badge" alt="sadeepa_dexter" /></a> </p>
 
-- 🔭 I’m currently working on **Zippy**
+- 🔭 I’m currently working on **OpenSlotz**
 
 - 🌱 I’m currently learning **MERN**
 
