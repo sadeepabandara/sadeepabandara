@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/dfef55d30565b2e180d344043ae7f15bf0c4fea2e5890b323b1fcc40a05f3ea4/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62322f32612f61322f62323261613232623266336635356236343638333631313538643532653265372e676966)
+[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 <h1 align="center">Hi 👋, I'm Sadeepa Bandara</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
