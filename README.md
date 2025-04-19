@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **sadeepadexter@gmail.com**
+- 📫 How to reach me **https://szdeepa.com/**
 
 - ⚡ Fun fact **I am funny**
 
