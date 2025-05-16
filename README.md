@@ -23,9 +23,10 @@
 <!-- LinkedIn -->
 <p align="left">
   <a href="https://www.linkedin.com/in/sadeepa-bandara" target="_blank">
-    <img src="https://img.shields.io/badge/connect-sadeepa--bandara-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn - sadeepa-bandara" />
+    <img src="https://img.shields.io/badge/connect-sadeepa--bandara-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB2aWV3Qm94PSIwIDAgMzYgMzYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMgMTIuNTQ1aDMuNzY3VjMwSDEuNXYtMTcuNDU1aDIuMTV6TTUuODQ4IDcuODQ4YzEuMjA2IDAgMi4xODgtLjk4MiAyLjE4OC0yLjE4OCAwLTEuMjA2LS45ODItMi4xODgtMi4xODgtMi4xODgtMS4yMDYgMC0yLjE4OC45ODItMi4xODggMi4xODggMCAxLjIwNi45ODIgMi4xODggMi4xODggMi4xODh6TTExLjI3MyAxMi41NDVoMy42MjV2Mi4zNzRoLjA1YzAuNTA1LTEuMDA4IDEuNzM0LTIuMDYyIDMuNTYyLTIuMDYyIDMuODA1IDAgNC41MDUgMi41MDUgNC41MDUgNS43NzVWMzBoLTMuNzY3di0xMC4yNWMwLTIuNDI2LS40MzItNC4xMjUtMy4xNDMtNC4xMjUtMi43MTIgMC0zLjEyNSAxLjg1NS0zLjEyNSAzLjg4N1YzMGgtMy43Njd2LTE3LjQ1NXoiLz48L3N2Zz4=" alt="LinkedIn - sadeepa-bandara" />
   </a>
 </p>
+
 
 - 🔭 I’m currently working on **OpenSlotz**
 
