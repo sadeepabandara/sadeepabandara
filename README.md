@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeepabandara&label=Profile%20views&color=0e75b6&style=flat" alt="sadeepabandara" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sadeepa_dexter" target="blank"><img src="https://img.shields.io/twitter/follow/sadeepa_dexter?logo=twitter&style=for-the-badge" alt="sadeepa_dexter" /></a> </p>
+<p align="left">
+  <a href="https://www.instagram.com/szdeepa" target="_blank">
+    <img src="https://img.shields.io/badge/follow-%40szdeepa-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="sadeepa_dexter" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **OpenSlotz**
 
