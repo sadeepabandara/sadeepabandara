@@ -23,7 +23,7 @@
 <!-- LinkedIn -->
 <p align="left">
   <a href="https://www.linkedin.com/in/sadeepa-bandara" target="_blank">
-    <img src="https://img.shields.io/badge/connect-sadeepa--bandara-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUgMy41QzUgNC40MTgzIDQuMjE4MyA1IDMuNSA1QzIuNzgyMiA1IDIgNC40MTgzIDIgMy41QzIgMi43ODE3IDIuNzgyMiAyIDMuNSAyQzQuMjE4MyAyIDUgMi43ODE3IDUgMy41Wk0yIDguNzVIMTVWMjJIMlY4Ljc1Wk0xNyA4LjUwMjVDMTUuOTk1IDguNTAyNSAxNS4wODMgOS4xMDcgMTUgMTAuMDVWMTAuMjVIMTUuMDA0VjguNzVIMTIuMDA1VjIySDE1VjEzLjk1QzE1IDEzLjMwMiAxNS41NjcgMTIuNzUgMTYuMjUgMTIuNzVDMTYuOTE3IDEyLjc1IDE3LjUgMTMuMzAyIDE3LjUgMTMuOTVWMTJaIi8+PC9zdmc+" alt="LinkedIn - sadeepa-bandara" />
+    <img src="https://img.shields.io/badge/connect-sadeepa--bandara-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn - sadeepa-bandara" />
   </a>
 </p>
 
