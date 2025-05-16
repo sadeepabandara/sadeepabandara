@@ -27,6 +27,28 @@
   </a>
 </p>
 
+<!-- Instagram -->
+<p align="left">
+  <a href="https://www.instagram.com/sadeepa_dexter" target="_blank">
+    <img src="https://img.shields.io/badge/follow-%40sadeepa__dexter-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram - @sadeepa_dexter" />
+  </a>
+</p>
+
+<!-- Facebook -->
+<p align="left">
+  <a href="https://www.facebook.com/szdeepa" target="_blank">
+    <img src="https://img.shields.io/badge/follow-%40szdeepa-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook - @szdeepa" />
+  </a>
+</p>
+
+<!-- LinkedIn (corrected logo name) -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/sadeepa-bandara" target="_blank">
+    <img src="https://img.shields.io/badge/connect-sadeepa--bandara-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn - sadeepa-bandara" />
+  </a>
+</p>
+
+
 
 - 🔭 I’m currently working on **OpenSlotz**
 
