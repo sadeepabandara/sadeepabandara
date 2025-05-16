@@ -6,18 +6,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeepabandara&label=Profile%20views&color=0e75b6&style=flat" alt="sadeepabandara" /> </p>
 
+<!-- Instagram -->
 <p align="left">
-  <!-- Instagram -->
   <a href="https://www.instagram.com/sadeepa_dexter" target="_blank">
     <img src="https://img.shields.io/badge/follow-%40sadeepa__dexter-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram - @sadeepa_dexter" />
   </a>
+</p>
 
-  <!-- Facebook -->
+<!-- Facebook -->
+<p align="left">
   <a href="https://www.facebook.com/szdeepa" target="_blank">
     <img src="https://img.shields.io/badge/follow-%40szdeepa-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook - @szdeepa" />
   </a>
+</p>
 
-  <!-- LinkedIn -->
+<!-- LinkedIn -->
+<p align="left">
   <a href="https://www.linkedin.com/in/sadeepa-bandara" target="_blank">
     <img src="https://img.shields.io/badge/connect-sadeepa--bandara-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn - sadeepa-bandara" />
   </a>
