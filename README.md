@@ -8,7 +8,7 @@
 
 <!-- Instagram -->
 <p align="left">
-  <a href="https://www.instagram.com/sadeepa_dexter" target="_blank">
+  <a href="https://www.instagram.com/szdeepa" target="_blank">
     <img src="https://img.shields.io/badge/follow-%40sadeepa__dexter-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram - @sadeepa_dexter" />
   </a>
 </p>
